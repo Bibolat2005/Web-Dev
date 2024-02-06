@@ -1,0 +1,161 @@
+body{
+    background: #f0f2f5;
+   /* text-align: center; */
+}
+*{
+    margin: 0px;
+    padding:0px;
+}
+.main_section{
+    padding-top: 60px;
+}
+.flex{
+    display: flex;
+}
+.width{
+    width: 40%;
+    margin: auto; /*important thin to set the white bottle */
+    text-align: center;
+
+}
+
+.input_width{
+    width: 90%;
+    border: 2px solid #f0f2f5;
+    margin-top : 10px; /* отступ сверху*/
+    font-size: 20px;
+    height: 50px;
+    outline: none;/*убирает черную линию*/
+    border-radius: 15px;/*сделает немного круглым и красивым*/
+}
+
+.input_width:focus{/*когда нажмем на импорт,цвет должен изменится*/
+    border: 1px ridge #1877f2;
+}
+
+.white_background{
+    background: #fff;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-top: 60px;
+    padding: 10px;/* Увеличьте размер фона с использованием padding */
+}
+button{
+    border: none;
+}
+
+.login_button{
+    width: 90%;
+    height: 50px;
+    text-align: center;
+    font-size: 25px;
+    color: #fff;
+    background: #1877f2;
+    margin-top:  20px;
+    border-radius: 6px;
+}
+
+.p_f_p a{
+    text-decoration: none; /* не будет подчеркнутым*/
+}
+
+.p_f_p{
+    color: #1877f2;
+    margin: 20px 0px;
+}
+
+form hr{
+    width: 100%;
+    border: 1px solid #e6e6c9;
+}
+
+.cr_button{
+    width: 50%;
+    height: 50px;
+    color: white;
+    background: #42b72a;;
+    font-size: 20px;
+    margin: 20px 0px;
+    border-radius: 6px;
+}
+
+.fb_area{
+    text-align: left;
+    
+    font-size: 28px;
+    font-weight: normal;
+    margin-left: 120px;
+    margin-top: -150px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+}
+.fb_area img{
+    width: 300px;
+    margin-left: -30px;
+    margin-top: 60px;
+    margin-bottom: -10px;
+    
+} 
+
+.page_recom{
+    margin-top: 30px;
+    margin-left: 90px;
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+}
+.page_recom a{
+    text-decoration: none;
+    color: black;
+}
+
+footer {
+    padding-top: 15px;
+    background-color:white ;
+    margin-top: 150px;
+}
+
+.footer-items {
+    position: relative;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.footer-items button {
+    width: 25px;
+    font-weight: 600;
+}
+
+.footer-items ol {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+footer ol {
+    display: flex;
+    flex-wrap: wrap; /* элементы будут переноситься на новую строку, если они не умещаются в одной строке.*/
+    list-style-type: none;/*убирает маркеры списка (нумерацию) */
+    padding: 10px 0;
+    color: #737373;
+}
+
+footer ol:first-child {
+    border-bottom: 1px solid #dddfe2;
+}
+
+footer ol li {
+    padding-right: 15px;
+    font-size: 12px;
+}
+
+footer ol li a {
+    text-decoration: none;
+    color: #737373;
+}
+
+footer ol li a:hover {
+    text-decoration: underline;
+}
+
+footer small {
+    font-size: 11px;
+    color: #737373;
+}
