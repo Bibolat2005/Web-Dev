@@ -47,7 +47,7 @@ export interface Product {
     },
     {
       id: 5,
-      url: "https://kaspi.kz/shop/p/samsung-galaxy-s20-fe-new-6-gb-128-gb-zelenyi-101449206/?c=191010000#!/item",
+      url: "https://kaspi.kz/shop/p/samsung-galaxy-s20-fe-new-6-gb-128-gb-sinii-101449279/?c=750000000",
       name: 'Samsung galaxy S20 FE',
       price: 499,
       description: 'Great phone from Samsung company',
@@ -56,7 +56,7 @@ export interface Product {
     },
     {
       id: 6,
-      url: "https://kaspi.kz/shop/p/lenovo-ideapad-gaming-3-15ihu6-82k1000wru-chernyi-107705183/?c=191010000#!/item",
+      url: "https://kaspi.kz/shop/p/lenovo-ideapad-gaming-3-15ihu6-82k1000wru-chernyi-107705183/?c=750000000",
       name: 'Laptop Lenovo IdeaPad Gaming 3 15IHU6 82K1000WRU black',
       price: 1099,
       description: 'Gaming laptop with great quality',
@@ -74,7 +74,7 @@ export interface Product {
     },
     {
       id: 8,
-      url: "https://kaspi.kz/shop/p/kawai-kdp-120-premium-satin-white-banketka-101577291/?c=191010000#!/item",
+      url: "https://kaspi.kz/shop/p/tsifrovoe-pianino-kawai-kdp120-premium-satin-white-101577291/?c=750000000",
       name: 'Digital piano KAWAI KDP 120 Premium Satin White',
       price: 1299,
       description: 'Digital piano with natural sound and great experience',
@@ -83,7 +83,7 @@ export interface Product {
     },
     {
       id: 9,
-      url: "https://kaspi.kz/shop/p/haier-cef535awd-belyi-102266711/?c=191010000#!/item",
+      url: "https://kaspi.kz/shop/p/haier-cef535awd-belyi-102266711/?c=750000000",
       name: 'Fridge Haier CEF535AWD white',
       price: 799,
       description: 'Haier fridge is the best choise',
@@ -92,12 +92,12 @@ export interface Product {
     },
     {
       id: 10,
-      url: "https://kaspi.kz/shop/p/samsung-galaxy-watch-5-pro-45-mm-chernyi-106174817/?c=191010000#!/item",
+      url: "https://kaspi.kz/shop/p/remeshok-oem-dlja-samsung-galaxy-watch-5-pro-krasnyi-107840537/?c=750000000",
       name: 'Smart Watch Samsung Galaxy Watch 5 Pro 45 mm Black',
       price: 399,
       description: 'New generation of samsung watches with new features',
       rating: 5.0,
-      pic: ["https://resources.cdn-kaspi.kz/img/m/p/he9/h55/64421166481438.jpg?format=gallery-large"]
+      pic: ["https://resources.cdn-kaspi.kz/img/m/p/ha0/he1/66405092392990.jpg?format=gallery-medium"]
     }
   ];
   
