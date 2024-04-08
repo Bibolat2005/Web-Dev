@@ -11,7 +11,10 @@ def company_list(request):
         return JsonResponse(companies_json, safe=False)
     elif request.method == 'POST':
         data = json.loads(request.body)
-        company = Company(name=data.get('name', ''), description=data.get('description', ''),city=data.get('city', ''),address=data.get('address', ''))
+        company = Company(name=data.get('name', ''), 
+                          description=data.get('description', ''),
+                          city=data.get('city', ''),
+                          address=data.get('address', ''))
         company.save()
         return JsonResponse(company.to_json())
 
