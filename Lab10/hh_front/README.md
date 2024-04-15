@@ -1,3 +1,5 @@
+"C:\Users\Биболат\Pictures\Screenshots\Снимок экрана 2024-04-15 164230.png"
+
 # HhFront
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.2.3.
