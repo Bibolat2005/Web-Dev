@@ -1,3 +1,8 @@
+Welcome to my web page about Bibolat's company.
+Frontend and Backend – the two pivotal components of my work. In Frontend, I bring design and interface to life, making my product accessible and user-friendly.I've crafted immersive user experiences that captivate and engage. On the Backend,I've engineered robust systems to ensure seamless functionality and reliability. 
+
+
+
 <img width="960" alt="Снимок экрана 2024-04-15 164230" src="https://github.com/Bibolat2005/Web-Dev/assets/122878046/0c8ab7eb-0a07-4ecc-add3-a21052612cf6">
 
 <img width="960" alt="Снимок экрана 2024-04-15 164306" src="https://github.com/Bibolat2005/Web-Dev/assets/122878046/830cde39-8eef-4c80-8727-6967cb615300">
