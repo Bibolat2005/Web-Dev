@@ -2,6 +2,7 @@ h2{
     margin-left: 3%;
 }
 ul{
+    text-align: center;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -10,9 +11,10 @@ ul{
 
 }
 .vacancy{
+    padding-bottom: 10px;
     border: solid 3px rgb(72, 133, 143);
     border-radius:4px;
-    width: 24%;
+    width: 20%;
 
 }
 a{

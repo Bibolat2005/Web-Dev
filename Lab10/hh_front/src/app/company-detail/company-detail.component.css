@@ -3,9 +3,11 @@ h1{
 }
 
 div{
+    padding-bottom: 10px;
+    text-align: center;
     border: solid 3px rgb(72, 133, 143);
     border-radius:4px;
-    width: 24%;
+    width: 20%;
     padding-left: 1%;
 }
 
